@@ -1,4 +1,5 @@
 var x = 120;
+var x = 120;
 var snelheid = 5;
 var diameter = 200;
 
